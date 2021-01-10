@@ -113,7 +113,7 @@ h1 {
     opacity: 0;
 }
 
-.overlay:target close {
+.overlay:target .close {
     animation: SlideDownFade .5s .5s forwards;
 }
 
